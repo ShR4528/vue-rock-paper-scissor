@@ -1,7 +1,6 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# link https://vue-rock-paper-scissor.vercel.app/
+# simple rock paper scissors app using Vue 3 and Vite
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img width="1440" src="https://user-images.githubusercontent.com/107538948/207301686-be8578cf-b1bd-4b49-960b-0bb7a4ac8c40.png">
